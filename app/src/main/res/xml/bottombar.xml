@@ -1,0 +1,28 @@
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home"
+        icononly="true"
+        inActiveColor="#9b9b9b"
+        activeColor="#b98068"/>
+    <tab
+        id="@+id/tab_fill"
+        icon="@drawable/ic_fill"
+        icononly="true"
+        inActiveColor="#9b9b9b"
+        activeColor="#b98068"/>
+
+    <tab
+        id="@+id/tab_coffee"
+        icon="@drawable/ic_coffee1"
+        icononly="true"
+        inActiveColor="#9b9b9b"
+        activeColor="#b98068"/>
+    <tab
+        id="@+id/tab_profile"
+        icon="@drawable/ic_profile"
+        icononly="true"
+        inActiveColor="#9b9b9b"
+        activeColor="#b98068" />
+
+</tabs>
